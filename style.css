@@ -140,7 +140,7 @@ color: var(---darkblue);
     color: var(---darkgren);
 }
 .about{
-    color: var(---black2);
+    /* color: var(---black2); */
 }
 .digital{
     margin-left:230px;
